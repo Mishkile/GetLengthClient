@@ -22,5 +22,4 @@ function GetLengthPage() {
         </div>
     )
 }
-
 export default GetLengthPage
