@@ -16,7 +16,7 @@ function GetLengthPage() {
         }
         setError(false)
         try {
-        const response = await axios.post("https://main--loquacious-sorbet-fab034.netlify.app/", { folderID })
+        const response = await axios.post("https://rich-ruby-bream-ring.cyclic.app/", { folderID })
         console.log(response)
 
        
